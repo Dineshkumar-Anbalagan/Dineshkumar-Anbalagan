@@ -2,7 +2,7 @@
 
 ## Hello there!!
 
-#### My name is Dineshkumar Anbalagan and I am a passionate Data scientist having a strong knowldege in Python and its libraries like pandas, numpy, sklearn, matplotlib, seaborn, etc... and a foundational knowledge on machine learning algorithms. Also I am pretty much good in data analysis techniques. 
+#### My name is Dineshkumar Anbalagan and I am a passionate Data scientist having strong knowldege in Python and its libraries like pandas, numpy, sklearn, matplotlib, seaborn, etc... and a foundational knowledge on machine learning algorithms. Also I am pretty much good in data analysis techniques. 
 
 * At present I am working on honing my skills in Machine Learning. 
 * Also I started learning tableau a week before. 
