@@ -6,7 +6,7 @@
 
 *  :dart: Currently learning AWS Cloud Services for Model Deployment.
 * :computer: 2021 Bertelsmann Tech Scholar - Predictive Analytics for Business - Nanodegree.
-* :monocle_face: Looking for internships and full time roles where I could learn and develop myself in both Professionally as well as Technically.
+* :monocle_face: Looking for internships opportunities where I could learn and develop myself in both Professionally as well as Technically.
 * 📑  Here is my link to my linkedin Profile -https://www.linkedin.com/in/dineshkumar-anbalagan-5b0b1a192
 *  :speech_balloon: Contact me here - dinesh2000.data@gmail.com
 *  📕 I am a self learner as well as fast learner and I believe in the fact life-long learning isn't optional anymore. 
