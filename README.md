@@ -6,7 +6,8 @@
 
 *  :dart: Currently learning AWS Cloud Services focused on data engineering.
 * :computer: 2021 Bertelsmann International Tech Scholar - Predictive Analytics for Business - Nanodegree.
-*  Currently pursuing post-grad in data science and engineering.
+*  📚 Currently pursuing post-grad in data science and engineering.
+*  🧑🏼‍💻 Open for full time roles.
 
 [LinedIn](https://www.linkedin.com/in/dineshkumar-anbalagan-5b0b1a192) || [Gmail](dinesh2000.data@gmail.com) || [Twitter](https://twitter.com/DineshkumarAnb6) || [Blog - Datenwissenchaft](https://datenwissenschaftdynasty.blogspot.com)
  
